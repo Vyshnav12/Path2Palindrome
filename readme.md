@@ -83,4 +83,4 @@ Below is the default state of the board used in the simulation:
 
 ## License
 
-This project is licensed under the MIT License. Feel free to modify and distribute the code as needed. Enjoy exploring the Path2Palindrome!
+This project is licensed under the MIT License. 

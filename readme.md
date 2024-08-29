@@ -8,10 +8,9 @@ The **Path2Palindrome** is a Python-based tool that simulates the process of nav
 
 - [Features](#features)
 - [Installation](#installation)
-- [How to Use](#how-to-use)
+- [Usage](#usage)
 - [Simulation Rules](#simulation-rules)
 - [Default Board State](#default-board-state)
-- [Usage](#usage)
 - [License](#license)
 
 ## Features

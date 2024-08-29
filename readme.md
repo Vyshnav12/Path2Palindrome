@@ -26,13 +26,13 @@ The **Path2Palindrome** is a Python-based tool that simulates the process of nav
 
 To run the Path2Palindrome, ensure you have Python 3.x installed along with the necessary libraries. You can install the required libraries using pip:
 
-( bash )
+```bash
 pip install numpy
-( /bash )
+```
 
 After installing the dependencies, download the simulation files and navigate to the directory containing the main script.
 
-## How to Use
+## Usage
 
 1. **Start the Simulation**: Run the main script (PalindromeSimulator.py). A window will open displaying the grid.
 2. **Token Movement**: The token starts at position D4 i.e. (4, 4) on a 8x8 grid and moves randomly based on the defined rules.

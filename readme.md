@@ -74,6 +74,13 @@ Below is the default state of the board used in the simulation:
    - Click the **Batch Run** button to execute multiple simulations in a batch. A dialog box will prompt you to enter the number of simulations.
    - After entering the number, the program will run the specified number of simulations and calculate the average number of steps required to form a palindrome. The average number of steps will be displayed on the GUI.
 
+4. **Grid Representation**:
+
+   - **Green Squares**: Represent special squares with specific rules. The positions B6, C7, F2, and G3 are green squares on the grid.
+   - **Red Square**: Indicates the current position of the token.
+   - **Yellow Square**: Indicates the previous positions of the token.
+   - **Blue Square**: Indicates that the token has previously occupied a green square.
+
 ## License
 
 This project is licensed under the MIT License. Feel free to modify and distribute the code as needed. Enjoy exploring the Path2Palindrome!

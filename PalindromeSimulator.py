@@ -193,7 +193,7 @@ class GameBoard(tk.Tk):
 
         average_steps = total_steps / num_simulations
         self.palindrome_label.config(text=f"Average steps: {average_steps:.2f}")
-        self.steps_label.config(text=f"Steps: - ")
+        self.steps_label.config(text="Steps: - ")
 
 
 def main():
